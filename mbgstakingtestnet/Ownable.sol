@@ -2,7 +2,7 @@
 
 pragma solidity 0.8.4;
 
-import "./Context.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Context.sol";
 
 
 /**
